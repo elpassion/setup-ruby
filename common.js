@@ -154,6 +154,7 @@ export const supportedPlatforms = [
   'macos-10.15',
   'macos-11',
   'macos-12',
+  'macos-13',
   'windows-2019',
   'windows-2022',
 ]
